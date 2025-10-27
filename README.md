@@ -9,4 +9,4 @@ Mahasiswa menyiapkan project PBL yang mencakup:
 - UML Diagram  
 
 📄 Dokumen lengkap dapat diakses melalui tautan berikut:  
-👉 [Link Google Drive PDF] https://docs.google.com/document/d/1CXmrM2_FItLi5vRPpxIu4eDcH-WeBJCE4hjonYCY1To/edit?usp=sharing
+👉 [Link Google Drive PDF] https://drive.google.com/file/d/1UV47YvQ2476f6_5eAzuaYyGKF3C8ca9g/view?usp=sharing
